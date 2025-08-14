@@ -12,4 +12,6 @@
     "vintageous_enable_sublime": false,
 	"index_files": true,
 	"relative_line_numbers": true,
+	"theme": "Solarized (light).sublime-theme",
+	"color_scheme": "Solarized (light).sublime-color-scheme",
 }

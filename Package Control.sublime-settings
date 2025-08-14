@@ -5,10 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"FileIcons",
 		"LSP",
+		"LSP-json",
 		"LSP-typescript",
 		"NeoVintageous",
 		"Origami",
 		"Package Control",
+		"Solarized Color Scheme",
+		"Theme - Sodarized",
 	],
 }
