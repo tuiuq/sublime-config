@@ -16,8 +16,8 @@ vnoremap K 5k
 vnoremap H 5h
 vnoremap L 5l
 
-nnoremap [b :tabprevious<CR>
-nnoremap ]b :tabnext<CR>
+nnoremap <A-[> :tabprevious<CR>
+nnoremap <A-]> :tabnext<CR>
 nnoremap <space>x :tabclose<CR>
 
 nnoremap <C-j> <C-w>j
