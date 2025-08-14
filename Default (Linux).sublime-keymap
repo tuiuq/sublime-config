@@ -1,0 +1,74 @@
+[
+	{
+		"keys": ["alt+f"],
+		"command": "show_panel",
+		"args": {
+			"panel": "find",
+			"reverse": false
+		}
+	},
+	{
+		"keys": ["alt+r"],
+		"command": "show_panel",
+		"args": {
+			"panel": "replace",
+			"reverse": false
+		}
+	},
+	{
+		"keys": ["alt+shift+f"],
+		"command": "show_panel",
+		"args": {
+			"panel": "find_in_files"
+		}
+	},
+	{
+		"keys": ["alt+p"],
+		"command": "show_overlay",
+		"args": {
+			"overlay": "goto",
+			"show_files": true
+		}
+	},
+	{
+		"keys": ["alt+shift+p"],
+		"command": "show_overlay",
+		"args": {
+			"overlay": "command_palette"
+		}
+	},
+	{
+		"keys": ["alt+1"],
+		"command": "toggle_side_bar"
+	},
+	{
+		"keys": ["alt+s"],
+		"command": "save",
+		"args": {
+			"async": true
+		}
+	},
+	{
+		"keys": ["shift+s"],
+		"command": "save",
+		"args": {
+			"async": true
+		}
+	},
+	{
+		"keys": ["alt+c"],
+		"command": "copy"
+	},
+	{
+		"keys": ["alt+v"],
+		"command": "paste"
+	},
+	{
+		"keys": ["alt+x"],
+		"command": "cut"
+	},
+	{
+		"keys": "alt+a",
+		"command": "select_all"
+	}
+]

@@ -1,0 +1,31 @@
+" A double quote character starts a comment.
+
+set relativenumber
+
+nnoremap S :w<CR>
+nnoremap Q :q<CR>
+
+nnoremap ; :
+
+nnoremap J 5j
+nnoremap K 5k
+nnoremap H 5h
+nnoremap L 5l
+vnoremap J 5j
+vnoremap K 5k
+vnoremap H 5h
+vnoremap L 5l
+
+nnoremap [b :tabprevious<CR>
+nnoremap ]b :tabnext<CR>
+nnoremap <space>x :tabclose<CR>
+
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-h> <C-w>h
+nnoremap <C-l> <C-w>l
+
+nnoremap <space><space> :nohlsearch<CR>
+
+nnoremap <F2> :LspSymbolRename<CR>
+nnoremap gd :LspSymbolDefinition<CR>
