@@ -29,3 +29,18 @@ nnoremap <space><space> :nohlsearch<CR>
 
 nnoremap <F2> :LspSymbolRename<CR>
 nnoremap gd :LspSymbolDefinition<CR>
+
+" 复制 / 剪切 / 粘贴 默认用系统剪贴板
+nnoremap yy "*yy
+nnoremap dd "*dd
+nnoremap y  "*y
+nnoremap d  "*d
+nnoremap p  "*p
+nnoremap P  "*P
+
+vnoremap yy "*yy
+vnoremap dd "*dd
+vnoremap y  "*y
+vnoremap d  "*d
+vnoremap p  "*p
+vnoremap P  "*P
