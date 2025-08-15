@@ -14,5 +14,6 @@
 	"relative_line_numbers": true,
 	"theme": "Solarized (light).sublime-theme",
 	"color_scheme": "Solarized (light).sublime-color-scheme",
-	"show_minimap": false
+	"show_minimap": false,
+	"font_size": 20,
 }

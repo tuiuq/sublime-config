@@ -5,8 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
 		"FileIcons",
+		"GitGutter",
 		"LSP",
+		"LSP-eslint",
 		"LSP-json",
 		"LSP-typescript",
 		"NeoVintageous",
